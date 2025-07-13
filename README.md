@@ -47,6 +47,8 @@ Will you uncover the truth, or become the next victim?
 ### 🏠 Home
 ![Home](images/home.png)
 
+### 💬 Dialogue
+![Dialogue](images/dialogue1.png)
 ---
 ## 🧃 Endings (Spoiler-Free)
 
