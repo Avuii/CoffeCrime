@@ -40,9 +40,6 @@ Will you uncover the truth, or become the next victim?
 ### 🗺️ Town
 ![Town](images/town.png)
 
-### 💬 Dialogue
-![Dialogue](images\dialogue1.png)
-
 ### 🏠 Home
 ![Home](images/home.png)
 
@@ -73,6 +70,9 @@ _**Mystery Brew**_ is the perfect blend — think *Coffee Talk* meets *Her Story
 ---
 
 ## 🔧 Status
+
+> ⚠️ **This game is currently in development.**  
+> Some features may not work as intended while debugging is ongoing.
 
 📦 *Prototype / Demo *  
 💡 Built for narrative testing, dialogue pacing, and interactive branching design.
