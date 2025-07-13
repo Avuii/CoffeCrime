@@ -35,10 +35,10 @@ Will you uncover the truth, or become the next victim?
 ---
 
 ### ☕ Café Interior
-![Café Interior](images/cafe.png)
+![Café Interior](images/caffe.png)
 
 ### 🗺️ Town
-![Town](images/town.jpg)
+![Town](images/town.png)
 
 ### 💬 Dialogue
 ![Dialogue](images/dialogue.png)
