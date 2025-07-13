@@ -1,0 +1,11 @@
+~ start
+Marcus: [[Oh, hey.|Hello.]]
+You: How's the coffee today?
+Marcus: That's my favourite!
+- Glad to hear that.
+- You: You knew Lucas, right?
+	Marcus: Right. The whole Lucas thing is really strange... 
+	He was always punctual and responsible.
+	If he didn’t show up, something serious must’ve happened.
+	You: I hope it's just a fever.
+=> END

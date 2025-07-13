@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://basyanajdcgkg"
+path="res://.godot/imported/pierce1.dialogue-9b029ad9ea0676c196987481ef60c91f.tres"
+
+[deps]
+
+source_file="res://dialogi/pierce1.dialogue"
+dest_files=["res://.godot/imported/pierce1.dialogue-9b029ad9ea0676c196987481ef60c91f.tres"]
+
+[params]
+
+defaults=true

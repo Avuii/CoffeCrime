@@ -1,0 +1,12 @@
+~ start
+Marcus: [[It's you again!|Morning.]]
+You: I’m starting to like this job.
+Marcus: If you stay long, you’ll see this place has its secrets.
+- Ask about Lucas
+	You: Yesterday you said Lucas might’ve had enemies?
+	Marcus: Not enemies… but he had tense relations with some clients.
+	He was always professional — but something tells me this wasn’t just a sudden walkout.
+- Stay casual
+	You: Just hoping for a quiet shift today.
+	Marcus: Then don’t look too deep. You might not like what you find.
+=> END

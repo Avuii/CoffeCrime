@@ -1,0 +1,12 @@
+~ start
+Caroline: [[You're still asking about Lucas?|Hi.]]
+You: You seemed hesitant yesterday.
+Caroline: I wasn’t sure I should talk. But lately… he seemed afraid.
+- Ask for more
+    You: Afraid of what?
+    Caroline: I don’t know. Just this nervous energy, like he thought someone was following him.
+    It’s hard to explain.
+- Stay vague
+    You: Maybe he was just stressed.
+    Caroline: Or he was in trouble. I have a bad feeling about all this.
+=> END

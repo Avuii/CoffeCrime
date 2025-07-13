@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dnxin7eu0pkhh"
+path="res://.godot/imported/astrid1.dialogue-450ff4fd38c144045f08d9001cec5ae5.tres"
+
+[deps]
+
+source_file="res://dialogi/astrid1.dialogue"
+dest_files=["res://.godot/imported/astrid1.dialogue-450ff4fd38c144045f08d9001cec5ae5.tres"]
+
+[params]
+
+defaults=true

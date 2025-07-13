@@ -1,0 +1,14 @@
+~ start
+James: [[You seem more confident today.|Hey.]]
+You: I’m getting the hang of the coffee machine.
+James: Good. But coffee is the easy part. People? Not so much.
+- Dig deeper
+    You: What do you mean?
+    James: Everyone leaves traces. The real question is: do you know how to find them?
+    Lucas was hiding something. I can feel it.
+    You: Like what?
+    James: That’s the thing — it’s always hidden behind the foam.
+- Shrug it off
+    You: I just make coffee, not solve mysteries.
+    James: Suit yourself.
+=> END

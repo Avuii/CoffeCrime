@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://1hiwv0qgow20"
+path="res://.godot/imported/dante2.dialogue-3e0206258b8107b51910f456a8b6aee8.tres"
+
+[deps]
+
+source_file="res://dialogi/dante2.dialogue"
+dest_files=["res://.godot/imported/dante2.dialogue-3e0206258b8107b51910f456a8b6aee8.tres"]
+
+[params]
+
+defaults=true

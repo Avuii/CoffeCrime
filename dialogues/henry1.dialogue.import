@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dcu6ngb7j5hju"
+path="res://.godot/imported/henry1.dialogue-309083e45df4b8d26d4c2d80401b9489.tres"
+
+[deps]
+
+source_file="res://dialogi/henry1.dialogue"
+dest_files=["res://.godot/imported/henry1.dialogue-309083e45df4b8d26d4c2d80401b9489.tres"]
+
+[params]
+
+defaults=true

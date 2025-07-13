@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cobstlu34dnyf"
+path="res://.godot/imported/clara1.dialogue-f37011d3078169d594177ecbeb45e1e0.tres"
+
+[deps]
+
+source_file="res://dialogi/clara1.dialogue"
+dest_files=["res://.godot/imported/clara1.dialogue-f37011d3078169d594177ecbeb45e1e0.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dcr1p28vrvxri"
+path="res://.godot/imported/marcus1.dialogue-7c030d83addc0dd412eb6f44cbe68f6a.tres"
+
+[deps]
+
+source_file="res://dialogi/marcus1.dialogue"
+dest_files=["res://.godot/imported/marcus1.dialogue-7c030d83addc0dd412eb6f44cbe68f6a.tres"]
+
+[params]
+
+defaults=true

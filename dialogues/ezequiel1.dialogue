@@ -1,0 +1,12 @@
+~ start
+Ezequiel: [[One coffee, please.|Hey.]]
+You: Do you come here often?
+Ezequiel: Not really.
+- Ask about the reason
+    You: What do you think happened to Lucass?
+    Ezequiel: (pauses, takes a sip) I don’t know... maybe someone took him.  
+    Someone who *couldn’t live without his coffee.*
+- Make a joke
+    You: His coffee *was* addictive.
+    Ezequiel: (nods slowly) And addiction drives people to do strange things.
+=> END

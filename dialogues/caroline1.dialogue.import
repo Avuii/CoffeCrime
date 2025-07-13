@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://b48lq0wxicnu6"
+path="res://.godot/imported/caroline1.dialogue-5c6bbee8e97033ad936b2147ad5fd2de.tres"
+
+[deps]
+
+source_file="res://caroline1.dialogue"
+dest_files=["res://.godot/imported/caroline1.dialogue-5c6bbee8e97033ad936b2147ad5fd2de.tres"]
+
+[params]
+
+defaults=true

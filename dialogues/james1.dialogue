@@ -1,0 +1,13 @@
+~ start
+James: [[Coffee time.|Morning.]]
+You: Good choice — latte or flat white?
+James: Flat white, always. Lucas made them best.
+- Ask about Lucas
+	You: You knew him well?
+	James: Sure. He was a great barista. His latte art? Amazing.
+	But hey… anyone can have a reason to disappear.
+	You: What do you mean?
+	James: Just don’t trust too quickly — sometimes the innocent have the most to hide.
+- Change subject
+	You: I’ll try to reach his level one day.
+=> END

@@ -1,0 +1,39 @@
+[gd_scene load_steps=5 format=3 uid="uid://o416tefits7v"]
+
+[ext_resource type="Script" uid="uid://bq2ob0ufqhotw" path="res://scenes/customer.gd" id="1_8qg4y"]
+[ext_resource type="SpriteFrames" uid="uid://bsodppo5wflaw" path="res://graphic/anim/freya.tres" id="2_xss0h"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_xss0h"]
+size = Vector2(9.125, 3.25)
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_xss0h"]
+
+[node name="Customer" type="CharacterBody2D"]
+y_sort_enabled = true
+collision_layer = 2
+collision_mask = 7
+script = ExtResource("1_8qg4y")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+y_sort_enabled = true
+sprite_frames = ExtResource("2_xss0h")
+animation = &"drink"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 13)
+shape = SubResource("RectangleShape2D_xss0h")
+
+[node name="InteractArea" type="Area2D" parent="."]
+y_sort_enabled = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractArea"]
+position = Vector2(0, 13)
+shape = SubResource("CircleShape2D_xss0h")
+
+[node name="NavigationAgent2D" type="NavigationAgent2D" parent="."]
+
+[node name="DrinkTimer" type="Timer" parent="."]
+one_shot = true
+
+[connection signal="body_entered" from="InteractArea" to="." method="_on_interaction_area_body_entered"]
+[connection signal="body_entered" from="InteractArea" to="." method="_on_interact_area_body_entered"]

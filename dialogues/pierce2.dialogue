@@ -1,0 +1,14 @@
+~ start
+Pierce: I see you're still asking questions about Lucas...  
+I don’t understand why you care so much.  
+He chose his path. Not everything needs to be uncovered.
+
+You: Maybe I just want to understand.
+Pierce: Then understand this — sometimes what’s best for one isn’t good for all. But... if you really want the truth...  We can talk after your shift. Quietly. Just you and me.
+- Yes
+	You: Alright. I’ll meet you after work.
+	Pierce: Good. There’s more than you think. But it stays between us.
+- No
+	You: I don’t think that’s a good idea.
+	Pierce: Fine. Some truths are safer left alone anyway.
+=> END

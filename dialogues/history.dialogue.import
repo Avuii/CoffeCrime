@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://d4lnqmkrp1g1y"
+path="res://.godot/imported/history.dialogue-c0ee2a2e78af08966047b5ae7eaacaa9.tres"
+
+[deps]
+
+source_file="res://dialogi/history.dialogue"
+dest_files=["res://.godot/imported/history.dialogue-c0ee2a2e78af08966047b5ae7eaacaa9.tres"]
+
+[params]
+
+defaults=true

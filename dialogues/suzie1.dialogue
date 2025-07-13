@@ -1,0 +1,13 @@
+~ start
+Suzie: [[You’re new here, right?|Hi there.]]
+You: Yes, first day.
+Suzie: Welcome then. Hope you survive the chaos here.
+- Ask about Lucas
+	You: Did you know Lucas?
+	Suzie: Hmm… Lucas had a very interesting face.
+	I sketched him a few times. He was quiet, but his eyes... said something else.
+	Maybe he had secrets? Artists can tell — people aren’t always what they seem.
+	You: That’s... cryptic.
+- Don’t ask
+	You: Thanks, I’ll do my best.
+=> END

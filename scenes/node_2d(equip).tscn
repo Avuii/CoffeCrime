@@ -1,0 +1,55 @@
+[gd_scene load_steps=4 format=3 uid="uid://ctaveisoi3prq"]
+
+[ext_resource type="Texture2D" uid="uid://b1t7lvlt6a384" path="res://graphic/assets/ekwipunek.png" id="1_lpnlu"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_2kmsf"]
+texture = ExtResource("1_lpnlu")
+0:0/size_in_atlas = Vector2i(5, 5)
+0:0/0 = 0
+
+[sub_resource type="TileSet" id="TileSet_4o47l"]
+sources/0 = SubResource("TileSetAtlasSource_2kmsf")
+
+[node name="CanvasLayer" type="CanvasLayer"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(24, -22)
+zoom = Vector2(15, 10)
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="Control"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="GridContainer" type="GridContainer" parent="Control"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+columns = 2
+
+[node name="TextureButton" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+
+[node name="TextureButton2" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+
+[node name="TileMap" type="TileMap" parent="."]
+format = 2
+
+[node name="TileMapLayer" type="TileMapLayer" parent="TileMap"]
+tile_map_data = PackedByteArray(0, 0, 1, 0, 254, 255, 0, 0, 0, 0, 0, 0, 0, 0)
+tile_set = SubResource("TileSet_4o47l")

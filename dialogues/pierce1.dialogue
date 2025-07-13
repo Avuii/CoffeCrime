@@ -1,0 +1,12 @@
+~ start
+Pierce: [[Good morning.|Hi there.]]
+You: It’s quiet today.
+Pierce: Isn’t it? It feels empty without Lucas around.  
+I always said he was too good for this place.
+- Ask about Lucas
+    You: Do you think he’s okay?
+    Pierce: Oh, I’m sure he just needed a break. We all do, don’t we?
+- Stay silent
+    You: ...
+    Pierce: People come and go. That’s just life.
+=> END

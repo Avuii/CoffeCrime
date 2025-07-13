@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://c61y5tmf5g0dx"
+path="res://.godot/imported/ezequiel1.dialogue-0a040f07fd71719cae946e22f5574703.tres"
+
+[deps]
+
+source_file="res://dialogi/ezequiel1.dialogue"
+dest_files=["res://.godot/imported/ezequiel1.dialogue-0a040f07fd71719cae946e22f5574703.tres"]
+
+[params]
+
+defaults=true

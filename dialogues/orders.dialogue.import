@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://chjkk06ohxqfj"
+path="res://.godot/imported/orders.dialogue-7bdfb4500aa60c13b7b7e7541d656dfd.tres"
+
+[deps]
+
+source_file="res://dialogi/orders.dialogue"
+dest_files=["res://.godot/imported/orders.dialogue-7bdfb4500aa60c13b7b7e7541d656dfd.tres"]
+
+[params]
+
+defaults=true

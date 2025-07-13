@@ -1,0 +1,13 @@
+~ start
+James: [[Still digging?|Good to see you again.]]
+You: You sound skeptical.
+James: A barista disappears. No sign of struggle. No note.  
+Too clean. Too perfect.
+- Ask for his theory
+    You: So... not a disappearance?
+    James: No. It looks like someone planned this.  
+    Someone close—cleaning up after themselves.
+- Shrug it off
+    You: Maybe he just left quietly.
+    James: People rarely vanish quietly. Silence usually screams the loudest.
+=> END

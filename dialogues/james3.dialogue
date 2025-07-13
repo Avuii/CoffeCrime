@@ -1,0 +1,14 @@
+~ start
+James: [[Found anything interesting?|Hey again.]]
+You: There's a weird invoice. And a mysterious “P.”
+James: It’s the little things that reveal the truth.
+- Ask for details
+    You: Do you have any suspects?
+    James: A few names... Dante. Pierce. Caroline. Isabell.
+    Some might surprise you.
+    You: Why those people?
+    James: Everyone hides something. The real question is: what?
+- Avoid it
+    You: Might just be a paperwork mistake.
+    James: Don’t trust coincidences—not in a story like this.
+=> END

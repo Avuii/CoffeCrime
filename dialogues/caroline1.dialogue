@@ -1,0 +1,12 @@
+~ start
+Caroline: [[Hi… You’re the new one, right?|Hello.]]
+You: That’s me — day two!
+Caroline: Brave soul.
+- Ask about Lucas
+	You: Did you know Lucas well?
+	Caroline: Not deeply. But lately… he seemed afraid of something.
+	Jumpy. Unfocused. I wanted to ask, but I didn’t get the chance.
+- Stay quiet
+	You: Hope today’s calmer than yesterday.
+	Caroline: Calm’s overrated. Trouble’s just quieter when it watches.
+=> END

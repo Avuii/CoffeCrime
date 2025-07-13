@@ -1,0 +1,12 @@
+~ start
+Marcus: [[Any news?|Hey.]]
+You: I found a receipt signed just "P".
+Marcus: A perfectionist like Lucas wouldn’t quit without a reason.
+- Ask more
+    You: Did he tell you anything recently?
+    Marcus: He said he felt like someone was watching him. I thought he was joking.
+    Maybe he saw something he wasn’t supposed to.
+- Shrug it off
+    You: Guess he just needed a break.
+    Marcus: Maybe… but it doesn’t feel right.
+=> END

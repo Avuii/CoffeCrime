@@ -1,0 +1,15 @@
+~ start
+Henry: [[Coffee’s better today.|Hey.]]
+You: Thanks! Still learning the ropes.
+Henry: You’re doing fine.
+- Ask about Lucas
+	You: Did you ever talk to Lucas?
+	Henry: Not much. I worked here only a short time.
+	He was... intense. Obsessed with the coffee. Like it was more than just a drink to him.
+	Lately, he was rushing out. Looked like he was avoiding someone.
+	You: Any idea who?
+	Henry: No clue. Maybe his ex? Everyone runs from someone.
+- Skip topic
+	You: Glad to see a familiar face today.
+	Henry: And I’m glad my flat white’s not burnt.
+=> END

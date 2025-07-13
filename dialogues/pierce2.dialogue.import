@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://pjkjywoytxbe"
+path="res://.godot/imported/pierce2.dialogue-27fb1bda3bf9e0cd36fdabf57d60543e.tres"
+
+[deps]
+
+source_file="res://dialogi/pierce2.dialogue"
+dest_files=["res://.godot/imported/pierce2.dialogue-27fb1bda3bf9e0cd36fdabf57d60543e.tres"]
+
+[params]
+
+defaults=true

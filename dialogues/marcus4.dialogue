@@ -1,0 +1,16 @@
+~ start
+Marcus: Lucas wasn’t *just* a barista.  
+He had secrets — and I don’t think he left without a reason.
+
+You: You think someone stopped him?
+Marcus: Yes. Someone who feared what he might reveal.  
+We need to be careful around those who want the truth buried.
+
+- Agree
+    You: You're right. Something’s being covered up.
+    Marcus: Then let’s make sure we’re not next.
+
+- Doubt
+    You: That sounds a bit paranoid.
+    Marcus: That’s what they want you to think.
+=> END

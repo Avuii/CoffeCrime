@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://p4vxapqd8s7y"
+path="res://.godot/imported/suzie1.dialogue-7f792724cbad1e5fdb314288075f486d.tres"
+
+[deps]
+
+source_file="res://dialogi/suzie1.dialogue"
+dest_files=["res://.godot/imported/suzie1.dialogue-7f792724cbad1e5fdb314288075f486d.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,17 @@
+~ start
+Dante: Turns out I know a bit of the behind-the-scenes stuff.  
+Lucas got himself tangled in something much bigger than coffee.
+
+You: What kind of “something”?
+Dante: I'm no hero. I don’t go around solving people’s problems.  
+But sometimes... people have motives you’d never guess.  
+Things aren’t always what they seem.
+
+- Press for details
+    You: You seem to know a lot. Why not just say it?
+    Dante: Some things aren’t mine to tell. You’ll figure it out... if you last long enough.
+
+- Stay vague
+    You: Life’s full of masks, huh?
+    Dante: Yeah. And sometimes it’s better to leave them on.
+=> END

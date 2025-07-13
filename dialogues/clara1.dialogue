@@ -1,0 +1,12 @@
+~ start
+Clara: [[Watching everyone, aren’t you?|Hi.]]
+You: Sometimes people say more when they say nothing at all.
+Clara: Lucas was cautious. Very cautious. Always double-checking things.
+- Ask for more
+    You: Like what?
+    Clara: He had routines. Always checked the door. Always opened his notebook.
+    People reveal themselves in silence, not just in words.
+- Stay vague
+    You: I just want today to feel normal.
+    Clara: Normalcy is an illusion. Especially in places like this.
+=> END

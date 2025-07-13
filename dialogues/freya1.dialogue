@@ -1,0 +1,12 @@
+~ start
+Freya: [[Ah, a new face.|Hi.]]
+You: Welcome back!
+Freya: Lucas always asked how I felt. Sweet guy.
+- Ask more
+	You: Do you remember anything unusual recently?
+	Freya: Few days ago I saw him rushing out. Like he was avoiding someone…
+	You: That’s suspicious.
+	Freya: I thought so too.
+- Keep it casual
+	You: I’ll be sure to keep the tradition and ask how you feel next time.
+=> END

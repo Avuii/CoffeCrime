@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bqslfus7w7a42"
+path="res://.godot/imported/whoismurderer.dialogue-fab24585d9681eb15ad666a4acfe5909.tres"
+
+[deps]
+
+source_file="res://dialogi/whoismurderer.dialogue"
+dest_files=["res://.godot/imported/whoismurderer.dialogue-fab24585d9681eb15ad666a4acfe5909.tres"]
+
+[params]
+
+defaults=true

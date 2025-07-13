@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cahneow5ud1gr"
+path="res://.godot/imported/james2.dialogue-a48fe321ec1b1f613510d0ae8e999735.tres"
+
+[deps]
+
+source_file="res://dialogi/james2.dialogue"
+dest_files=["res://.godot/imported/james2.dialogue-a48fe321ec1b1f613510d0ae8e999735.tres"]
+
+[params]
+
+defaults=true

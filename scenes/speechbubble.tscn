@@ -1,0 +1,44 @@
+[gd_scene load_steps=5 format=3 uid="uid://dje27xw1sblsy"]
+
+[ext_resource type="Script" uid="uid://xn47de01uc57" path="res://scenes/speechbubble.gd" id="1_m2bpb"]
+[ext_resource type="FontFile" uid="uid://do6lus6c8xku0" path="res://graphic/PixelifySans-VariableFont_wght.ttf" id="2_p8n3v"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_25tvm"]
+bg_color = Color(1, 1, 1, 1)
+border_width_left = 1
+border_width_top = 4
+border_width_right = 1
+border_width_bottom = 4
+border_color = Color(0, 0, 0, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+shadow_size = 5
+
+[sub_resource type="LabelSettings" id="LabelSettings_m2bpb"]
+
+[node name="speechbubble" type="Node2D"]
+script = ExtResource("1_m2bpb")
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="Panel" parent="Control"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_25tvm")
+
+[node name="Label" type="Label" parent="Control/Panel"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+theme_override_fonts/font = ExtResource("2_p8n3v")
+label_settings = SubResource("LabelSettings_m2bpb")
+autowrap_mode = 2
