@@ -41,7 +41,7 @@ Will you uncover the truth, or become the next victim?
 ![Town](images/town.png)
 
 ### 💬 Dialogue
-![Dialogue](images/dialogue.png)
+![Dialogue](images/dialogue1.png)
 
 ### 🏠 Home
 ![Home](images/home.png)
